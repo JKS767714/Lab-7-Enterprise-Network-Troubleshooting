@@ -33,7 +33,7 @@ The network consists of:
 ## Technologies Implemented
 
 ### 1. VLAN Segmentation and Inter-VLAN Routing
-
+![VLAN Configuration](images/Lab-7-VLAN-Configuration.png)
 Configured VLANs 10, 20, and 30 with dedicated switch access ports. Established an 802.1Q trunk between Switch0 and Router0 and configured router-on-a-stick subinterfaces to enable inter-VLAN communication.
 
 ### 2. DHCP
