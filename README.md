@@ -5,7 +5,7 @@
 Design, configure, integrate, and troubleshoot a simulated enterprise network using Cisco Packet Tracer. Demonstrate practical networking skills across VLAN segmentation, inter-VLAN routing, DHCP, extended ACLs, static routing, and NAT/PAT.
 
 ## Network Topology
-
+![Lab 7 Network Topology](images/Lab-7-Network-Topology.png)
 The network consists of:
 
 - Three PCs representing Operations, Engineering, and Support
