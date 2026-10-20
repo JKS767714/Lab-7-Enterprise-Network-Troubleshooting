@@ -48,7 +48,7 @@ Configured an extended ACL to block Operations traffic destined for Engineering 
 Validated ACL behavior through connectivity tests and match counters.
 
 ### 4. Static Routing
-
+![Static Routing Verification](images/Lab-7-Routing-Table.png)
 Configured a default route on Router0 pointing toward the ISP router at `203.0.113.2`.
 
 Verified the gateway of last resort using `show ip route`.
