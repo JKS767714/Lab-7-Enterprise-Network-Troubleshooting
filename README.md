@@ -37,7 +37,7 @@ The network consists of:
 Configured VLANs 10, 20, and 30 with dedicated switch access ports. Established an 802.1Q trunk between Switch0 and Router0 and configured router-on-a-stick subinterfaces to enable inter-VLAN communication.
 
 ### 2. DHCP
-
+![DHCP Bindings](images/Lab-7-DHCP-Bindings.png)
 Configured DHCP pools on Router0 for all three VLANs, including excluded addresses, default gateways, and DNS settings. Verified successful address assignment using `show ip dhcp binding`.
 
 ### 3. Extended Access Control Lists
