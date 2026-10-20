@@ -41,6 +41,7 @@ Configured VLANs 10, 20, and 30 with dedicated switch access ports. Established 
 Configured DHCP pools on Router0 for all three VLANs, including excluded addresses, default gateways, and DNS settings. Verified successful address assignment using `show ip dhcp binding`.
 
 ### 3. Extended Access Control Lists
+![ACL Configuration and Verification](images/Lab-7-ACL-Verification.png)
 
 Configured an extended ACL to block Operations traffic destined for Engineering while permitting other IP traffic.
 
