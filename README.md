@@ -54,7 +54,7 @@ Configured a default route on Router0 pointing toward the ISP router at `203.0.1
 Verified the gateway of last resort using `show ip route`.
 
 ### 5. NAT/PAT
-
+![NAT PAT Translations](images/Lab-7-NAT-Translations.png)
 Configured all three VLAN subinterfaces as NAT inside interfaces and G0/1 as the NAT outside interface.
 
 Implemented PAT overload to allow devices across all three internal VLANs to share external IP address `203.0.113.1`.
